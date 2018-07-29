@@ -35,11 +35,12 @@ body {
     box-shadow: 2px 2px 5px #3292a6;
     opacity: 1;
     background: #fff; 
+    position: absolute fixed;
 }
 .navbar .nav-item {
       font-size: 1.4rem;
       padding-right: 20px; 
-    }
+}
     #myFooter {
         background-color: #373a48;
         color:white;

@@ -34,3 +34,21 @@
     box-shadow: 0px 10px 10px rgba(0, 0, 0, 0.15) !important;
   }
 }
+
+
+.div container {
+  background: #0a0808;
+}
+
+.flex-column {
+  max-width: 260px;
+}
+
+img {
+  margin: 5px;
+}
+
+.scale {
+  transform: scaleY(1.05);
+  padding-top: 5px; 
+}
